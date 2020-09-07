@@ -14,3 +14,6 @@ class Solution:
                 return [hash[target-item],index]
             else:
                 hash[item]=index
+
+# Time Complexity = O(n)
+# Space Complexity = O(n)
