@@ -3,6 +3,7 @@
 1. [Two Sums](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/two_sum.py)
 771. [Jewels and Stones](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numJewelsInStones.py)
 1108. [Defanging an IP Address](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/defanIPaddr.py)
+1221. [Split a String in Balanced Strings](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/balancedStringSplit.py)
 1281. [Subtract the Product and Sum of Digits of an Integer](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/subtractProductAndSum.py)
 1313. [Decompress Run-Length Encoded List](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/decompressRLElist.py)
 1342. [Number of Steps to Reduce a Number to Zero](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numberOfSteps.py)
