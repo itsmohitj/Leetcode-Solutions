@@ -4,6 +4,7 @@
 771. [Jewels and Stones](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numJewelsInStones.py)
 1108. [Defanging an IP Address](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/defanIPaddr.py)
 1281. [Subtract the Product and Sum of Digits of an Integer](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/subtractProductAndSum.py)
+1313. [Decompress Run-Length Encoded List](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/decompressRLElist.py)
 1342. [Number of Steps to Reduce a Number to Zero](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numberOfSteps.py)
 1365. [How Many Numbers Are Smaller Than the Current Number](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/smallerNumberThanCurrent.py)
 1431. [Kids With the Greatest Number of Candies](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/kids_with_the_greatest_number_of_candies.py)
