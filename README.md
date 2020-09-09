@@ -7,6 +7,8 @@
 1108. [Defanging an IP Address](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/defanIPaddr.py)
 1179. [Reformat Department Table](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/reformatDepttTable.txt)
 1221. [Split a String in Balanced Strings](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/balancedStringSplit.py)
+1252. [Cells with Odd Values in a Matrix](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/oddCells.py)
+1266. [Minimum Time Visiting All Points](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/minTimeToVisitAllPoints.py)
 1281. [Subtract the Product and Sum of Digits of an Integer](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/subtractProductAndSum.py)
 1290. [Convert Binary Number in a Linked List to Integer](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/getDecimalValue.py)
 1295. [Find Numbers with Even number of Digits](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/findNumbers.py)
@@ -21,3 +23,4 @@
 1512. [Number of Good Pairs](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/num_identical_pairs.py)
 1528. [Shuffle String](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/restoreString.py)
 1534. [Count Good Triplets](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/countGoodTriplets.py)
+1572. [Matrix Diagonal Sum](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/diagonalSum.py)
