@@ -1,6 +1,7 @@
 # Leetcode-Solutions
 
 1. [Two Sums](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/two_sum.py)
+709. [To Lower Case](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/toLowerCase.py)
 771. [Jewels and Stones](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numJewelsInStones.py)
 938. [Range Sum of BST](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/rangeSumBST.py)
 1108. [Defanging an IP Address](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/defanIPaddr.py)
