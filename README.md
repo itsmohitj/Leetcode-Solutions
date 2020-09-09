@@ -19,3 +19,4 @@
 1486. [XOR Operation in an Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/xorOperation.py)
 1512. [Number of Good Pairs](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/num_identical_pairs.py)
 1528. [Shuffle String](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/restoreString.py)
+1534. [Count Good Triplets](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/countGoodTriplets.py)
