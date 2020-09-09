@@ -13,6 +13,7 @@
 1290. [Convert Binary Number in a Linked List to Integer](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/getDecimalValue.py)
 1295. [Find Numbers with Even number of Digits](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/findNumbers.py)
 1313. [Decompress Run-Length Encoded List](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/decompressRLElist.py)
+1323. [Maximum 69 Number](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/maximum69Number.py)
 1342. [Number of Steps to Reduce a Number to Zero](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numberOfSteps.py)
 1365. [How Many Numbers Are Smaller Than the Current Number](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/smallerNumberThanCurrent.py)
 1389. [Create Target Array in the Given Order](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/createTargetArray.py)
