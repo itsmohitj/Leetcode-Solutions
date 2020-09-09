@@ -7,7 +7,7 @@
 1179. [Reformat Department Table](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/reformatDepttTable.txt)
 1221. [Split a String in Balanced Strings](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/balancedStringSplit.py)
 1281. [Subtract the Product and Sum of Digits of an Integer](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/subtractProductAndSum.py)
-1290. [Convert Binary Number in a Linked List to Integer]()https://github.com/itsmohitj/Leetcode-Solutions/blob/master/getDecimalValue.py)
+1290. [Convert Binary Number in a Linked List to Integer](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/getDecimalValue.py)
 1295. [Find Numbers with Even number of Digits](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/findNumbers.py)
 1313. [Decompress Run-Length Encoded List](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/decompressRLElist.py)
 1342. [Number of Steps to Reduce a Number to Zero](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numberOfSteps.py)
