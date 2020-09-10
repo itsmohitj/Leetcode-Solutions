@@ -4,6 +4,7 @@
 595. [Big Countries](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/bigCountries.txt)
 709. [To Lower Case](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/toLowerCase.py)
 771. [Jewels and Stones](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numJewelsInStones.py)
+804. [Unique Morse Code Words](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/uniqueMorseRepresentations.py)
 938. [Range Sum of BST](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/rangeSumBST.py)
 1108. [Defanging an IP Address](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/defanIPaddr.py)
 1179. [Reformat Department Table](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/reformatDepttTable.txt)
