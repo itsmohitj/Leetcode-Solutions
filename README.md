@@ -2,6 +2,7 @@
 
 1. [Two Sums](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/two_sum.py)
 595. [Big Countries](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/bigCountries.txt)
+627. [Swap Salary](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/swapSalary.sql)
 709. [To Lower Case](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/toLowerCase.py)
 771. [Jewels and Stones](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numJewelsInStones.py)
 804. [Unique Morse Code Words](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/uniqueMorseRepresentations.py)
