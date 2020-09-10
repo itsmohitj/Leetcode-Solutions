@@ -20,6 +20,7 @@
 1365. [How Many Numbers Are Smaller Than the Current Number](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/smallerNumberThanCurrent.py)
 1389. [Create Target Array in the Given Order](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/createTargetArray.py)
 1431. [Kids With the Greatest Number of Candies](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/kids_with_the_greatest_number_of_candies.py)
+1436. [Destination City](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/destCity.py)
 1450. [Number of Students Doing Homework at a Given Time](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/busyStudent.py)
 1464. [Maximum Product of Two Elements in an Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/maxProduct.py)
 1470. [Running Sum of 1D Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/running_sum.py)
