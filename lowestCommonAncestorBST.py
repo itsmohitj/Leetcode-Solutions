@@ -27,4 +27,7 @@ class Solution:
                 root = root.right
             else:
                 break
-        return root        
+        return root
+
+# Time Complexity = O(n) where n is the number of nodes in BST. We have to loop over all nodes of BST.
+# Space Complexity = O(n) because of recursion.
