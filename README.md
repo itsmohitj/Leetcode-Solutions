@@ -3,6 +3,7 @@
 1. [Two Sums](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/two_sum.py)
 31. [Next Permutation](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/nextPermutation.py)
 235. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/lowestCommonAncestorBST.py)
+589. [Preorder Traversal](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/preorder.py)
 595. [Big Countries](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/bigCountries.txt)
 617. [Merge Two Binary Trees](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/mergeTress.py)
 627. [Swap Salary](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/swapSalary.sql)
