@@ -25,7 +25,7 @@ class Solution:
 
         if pivot == -1:
             nums.reverse()
-            retur
+            return
 
         while right > pivot and nums[right] <= nums[pivot]:
             right -= 1
