@@ -4,6 +4,7 @@
 31. [Next Permutation](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/nextPermutation.py)
 235. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/lowestCommonAncestorBST.py)
 595. [Big Countries](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/bigCountries.txt)
+617. [Merge Two Binary Trees](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/mergeTress.py)
 627. [Swap Salary](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/swapSalary.sql)
 709. [To Lower Case](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/toLowerCase.py)
 771. [Jewels and Stones](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numJewelsInStones.py)
