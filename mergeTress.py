@@ -36,7 +36,7 @@ class Solution:
         t1.right = self.mergeTrees(t1.right, t2.right)
         return t1
 
-# Time complexity : O(m). A total of n nodes need to be traversed. Here, n represents the minimum number of nodes from the two given trees.
+# Time complexity : O(n). A total of n nodes need to be traversed. Here, n represents the minimum number of nodes from the two given trees.
 
 # Space complexity : O(n). The depth of the recursion tree can go upto n in the case of a skewed tree. In average case, depth will be O(logn).
 
