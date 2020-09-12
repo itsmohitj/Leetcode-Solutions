@@ -15,6 +15,7 @@
 832. [Flipping an Image](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/flipAndInvertImage.py)
 905. [Sort Array By Parity](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/sortArrayByParity.py)
 938. [Range Sum of BST](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/rangeSumBST.py)
+961. [N-Repeated Element in Size 2N Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/repeatedNTimes.py)
 1108. [Defanging an IP Address](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/defanIPaddr.py)
 1179. [Reformat Department Table](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/reformatDepttTable.txt)
 1221. [Split a String in Balanced Strings](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/balancedStringSplit.py)
