@@ -27,7 +27,9 @@
 1323. [Maximum 69 Number](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/maximum69Number.py)
 1342. [Number of Steps to Reduce a Number to Zero](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/numberOfSteps.py)
 1351. [Count Negative Numbers in a Sorted Matrix](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/countNegatives.py)
+
 1365. [How Many Numbers Are Smaller Than the Current Number](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/smallerNumberThanCurrent.py)
+1374. [Generate a String With Characters That Have Odd Counts](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/generateTheString.py)
 1389. [Create Target Array in the Given Order](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/createTargetArray.py)
 1431. [Kids With the Greatest Number of Candies](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/kids_with_the_greatest_number_of_candies.py)
 1436. [Destination City](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/destCity.py)
