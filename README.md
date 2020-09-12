@@ -35,6 +35,7 @@
 1450. [Number of Students Doing Homework at a Given Time](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/busyStudent.py)
 1464. [Maximum Product of Two Elements in an Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/maxProduct.py)
 1470. [Running Sum of 1D Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/running_sum.py)
+1475. [Final Prices With a Special Discount in a Shop](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/finalPrices.py)
 1480. [Shuffle The Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/shuffle_the_array.py)
 1486. [XOR Operation in an Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/xorOperation.py)
 1512. [Number of Good Pairs](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/num_identical_pairs.py)
