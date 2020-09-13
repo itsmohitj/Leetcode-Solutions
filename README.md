@@ -3,6 +3,7 @@
 1. [Two Sums](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/two_sum.py)
 31. [Next Permutation](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/nextPermutation.py)
 168. [Excel Sheet Column Title](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/convertToTitle.py)
+169. [Majority Element](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/majorityElement.py)
 235. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/lowestCommonAncestorBST.py)
 461. [Hamming Distance](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/hammingDistance.py)
 589. [Preorder Traversal](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/preorder.py)
