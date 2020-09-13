@@ -45,6 +45,7 @@
 1475. [Final Prices With a Special Discount in a Shop](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/finalPrices.py)
 1480. [Shuffle The Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/shuffle_the_array.py)
 1486. [XOR Operation in an Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/xorOperation.py)
+1502. [Can Make Arithmetic Progression From Sequence](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/canMakeAP.py)
 1512. [Number of Good Pairs](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/num_identical_pairs.py)
 1528. [Shuffle String](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/restoreString.py)
 1534. [Count Good Triplets](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/countGoodTriplets.py)
