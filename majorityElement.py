@@ -12,5 +12,5 @@ class Solution:
         nums.sort()
         return nums[len(nums)//2]
 
-# Time Complexity = O(nlogn)
+# Time Complexity = O(n*logn)
 # Space Complexity = O(1)
