@@ -2,6 +2,7 @@
 
 1. [Two Sums](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/two_sum.py)
 31. [Next Permutation](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/nextPermutation.py)
+75. [Sort Colors](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/sortColors.py)
 168. [Excel Sheet Column Title](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/convertToTitle.py)
 169. [Majority Element](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/majorityElement.py)
 235. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/lowestCommonAncestorBST.py)
