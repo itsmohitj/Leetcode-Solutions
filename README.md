@@ -21,6 +21,7 @@
 938. [Range Sum of BST](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/rangeSumBST.py)
 961. [N-Repeated Element in Size 2N Array](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/repeatedNTimes.py)
 1108. [Defanging an IP Address](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/defanIPaddr.py)
+1137. [N-th Tribonacci Number](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/tribonacci.py)
 1179. [Reformat Department Table](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/reformatDepttTable.txt)
 1221. [Split a String in Balanced Strings](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/balancedStringSplit.py)
 1252. [Cells with Odd Values in a Matrix](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/oddCells.py)
