@@ -41,6 +41,7 @@
 1351. [Count Negative Numbers in a Sorted Matrix](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/countNegatives.py)
 1365. [How Many Numbers Are Smaller Than the Current Number](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/smallerNumberThanCurrent.py)
 1374. [Generate a String With Characters That Have Odd Counts](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/generateTheString.py)
+1380. [Lucky Numbers in a Matrix](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/luckyNumbers.py)
 1389. [Create Target Array in the Given Order](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/createTargetArray.py)
 1460. [Make Two Arrays Equal by Reversing Sub-arrays](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/canBeEqual.py)
 1431. [Kids With the Greatest Number of Candies](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/kids_with_the_greatest_number_of_candies.py)
