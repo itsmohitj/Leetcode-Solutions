@@ -2,6 +2,7 @@
 
 1. [Two Sums](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/two_sum.py)
 31. [Next Permutation](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/nextPermutation.py)
+53. [Maximum Subarray](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/maxSubArray.py)
 75. [Sort Colors](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/sortColors.py)
 168. [Excel Sheet Column Title](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/convertToTitle.py)
 169. [Majority Element](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/majorityElement.py)
