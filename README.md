@@ -27,6 +27,7 @@
 1137. [N-th Tribonacci Number](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/tribonacci.py)
 1179. [Reformat Department Table](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/reformatDepttTable.txt)
 1221. [Split a String in Balanced Strings](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/balancedStringSplit.py)
+1237. [Find Positive Integer Solution for a Given Equation](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/findSolution.py)
 1252. [Cells with Odd Values in a Matrix](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/oddCells.py)
 1266. [Minimum Time Visiting All Points](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/minTimeToVisitAllPoints.py)
 1281. [Subtract the Product and Sum of Digits of an Integer](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/subtractProductAndSum.py)
