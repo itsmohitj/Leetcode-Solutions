@@ -9,6 +9,7 @@
 205. [Isomorphic Strings](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/isIsomorphic.py)
 235. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/lowestCommonAncestorBST.py)
 300. [Longest Increasing Subsequence](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/lengthofLIS.py)
+349. [Intersection of Two Arrays](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/intersection.py)
 461. [Hamming Distance](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/hammingDistance.py)
 589. [Preorder Traversal](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/preorder.py)
 595. [Big Countries](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/bigCountries.txt)
