@@ -5,6 +5,7 @@
 53. [Maximum Subarray](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/maxSubArray.py)
 75. [Sort Colors](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/sortColors.py)
 136. [Single Number I](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/singleNumber1.py)
+137. [Single Number II](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/singleNumber2.py)
 168. [Excel Sheet Column Title](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/convertToTitle.py)
 169. [Majority Element](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/majorityElement.py)
 205. [Isomorphic Strings](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/isIsomorphic.py)
