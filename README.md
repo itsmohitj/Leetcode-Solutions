@@ -10,6 +10,7 @@
 169. [Majority Element](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/majorityElement.py)
 205. [Isomorphic Strings](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/isIsomorphic.py)
 235. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/lowestCommonAncestorBST.py)
+260. [Single Number III](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/singleNumber3.py)
 300. [Longest Increasing Subsequence](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/lengthofLIS.py)
 349. [Intersection of Two Arrays](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/intersection.py)
 461. [Hamming Distance](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/hammingDistance.py)
