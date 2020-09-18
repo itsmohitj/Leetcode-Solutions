@@ -2,6 +2,7 @@
 
 1. [Two Sums](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/two_sum.py)
 31. [Next Permutation](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/nextPermutation.py)
+41. [First Missing Positive](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/firstMissingPositive.py)
 53. [Maximum Subarray](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/maxSubArray.py)
 75. [Sort Colors](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/sortColors.py)
 136. [Single Number I](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/singleNumber1.py)
