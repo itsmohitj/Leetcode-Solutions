@@ -45,6 +45,7 @@
 1266. [Minimum Time Visiting All Points](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/minTimeToVisitAllPoints.py)
 1281. [Subtract the Product and Sum of Digits of an Integer](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/subtractProductAndSum.py)
 1290. [Convert Binary Number in a Linked List to Integer](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/getDecimalValue.py)
+1291. [Sequential Digits](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/sequentialDigits.py)
 1295. [Find Numbers with Even number of Digits](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/findNumbers.py)
 1299. [Replace Elements with Greatest Element on Right Side](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/replaceElements.py)
 1304. [Find N Unique Integers Sum up to Zero](https://github.com/itsmohitj/Leetcode-Solutions/blob/master/sumZero.py)
